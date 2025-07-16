@@ -7,4 +7,4 @@ This repo contains the following files:
 
 ## Brief Description:
 
-This analysis presents an A/B testing analysis to evaluate whether changing the background color of a retail website affects user engagement.
+This demo presents an A/B testing analysis to evaluate whether changing the background color of a retail website affects user engagement.
